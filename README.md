@@ -37,5 +37,3 @@ _No server setup is required._
 
 This project is intended as a **frontend UI demonstration** and does not include real checkout or backend services.
 
-## 📂 Project Structure
-
